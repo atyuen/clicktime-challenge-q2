@@ -11,5 +11,7 @@ Address of ClickTime office: 282 2nd Street 4th floor, San Francisco, CA 94105
 Helpful links to get you started
 
 [Google Maps API](https://developers.google.com/maps/documentation/javascript/)
+
 [Google Maps API Examples](https://developers.google.com/maps/documentation/javascript/examples/)
+
 [Google Maps Places Library](https://developers.google.com/maps/documentation/javascript/places/)
